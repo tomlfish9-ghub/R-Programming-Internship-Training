@@ -1,7 +1,7 @@
 # R Programming & Data Analysis Training
 
 
-**Project Overview**
+**Project Overview:**
 This project contains instructional R programming materials developed to introduce undergraduate students to foundational data analysis skills during a research internship.
 The materials were designed to help students become familiar with RStudio and learn essential programming and data manipulation techniques within a short training period.
 
@@ -24,8 +24,8 @@ The materials were designed to help students become familiar with RStudio and le
 - dplyr
 
 
-**Project Structure**
-- scripts/ – Contains the instructional R script and examples.
+**Project Structure:**
+scripts/ – Contains the instructional R script and examples.
 
 
 **Purpose**
