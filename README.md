@@ -18,17 +18,17 @@ The materials were designed to help students become familiar with RStudio and le
 - Conditional logic using case_when()
 
 
-**Tools & Technologies**
+### Tools & Technologies
 - R
 - RStudio
 - dplyr
 
 
-**Project Structure:**
-scripts/ – Contains the instructional R script and examples.
+### Project Structure
+- scripts/ – Contains the instructional R script and examples.
 
 
-**Purpose**
-- This project demonstrates foundational R programming, data manipulation, and instructional material development in a research internship setting.
+### Purpose
+This project demonstrates foundational R programming, data manipulation, and instructional material development in a research internship setting.
 
 
