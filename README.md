@@ -29,6 +29,6 @@ The materials were designed to help students become familiar with RStudio and le
 
 
 **Purpose**
-This project demonstrates foundational R programming, data manipulation, and instructional material development in a research internship setting.
+- This project demonstrates foundational R programming, data manipulation, and instructional material development in a research internship setting.
 
 
