@@ -6,7 +6,7 @@ This project contains instructional R programming materials developed to introdu
 The materials were designed to help students become familiar with RStudio and learn essential programming and data manipulation techniques within a short training period.
 
 
-**Topics Covered**
+### Topics Covered
 - R programming fundamentals and basic calculations
 - Variables and data structures
 - Data frames and data exploration
